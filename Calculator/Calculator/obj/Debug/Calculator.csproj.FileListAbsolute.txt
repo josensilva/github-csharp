@@ -1,0 +1,10 @@
+C:\Cursos\DotNet\csharp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Cursos\DotNet\csharp\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Cursos\DotNet\csharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Cursos\DotNet\csharp\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Cursos\DotNet\csharp\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Cursos\DotNet\csharp\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Cursos\DotNet\csharp\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Cursos\DotNet\csharp\Calculator\Calculator\bin\Debug\CalculatorLibrary.dll
+C:\Cursos\DotNet\csharp\Calculator\Calculator\bin\Debug\CalculatorLibrary.pdb
+C:\Cursos\DotNet\csharp\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
