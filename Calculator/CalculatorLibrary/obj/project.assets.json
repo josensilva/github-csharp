@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\DotNet\\csharp\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectUniqueName": "C:\\Workspace\\Cursos\\DotNet\\csharp\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
       "projectName": "CalculatorLibrary",
-      "projectPath": "C:\\Cursos\\DotNet\\csharp\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectPath": "C:\\Workspace\\Cursos\\DotNet\\csharp\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
       "packagesPath": "C:\\Users\\j.souzasilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\DotNet\\csharp\\Calculator\\CalculatorLibrary\\obj\\",
+      "outputPath": "C:\\Workspace\\Cursos\\DotNet\\csharp\\Calculator\\CalculatorLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

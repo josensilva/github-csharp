@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IFlKOOp4egvf8sQY+qMFJcioj2dbbpTMkUAJET3YhCiy81TIZXeRx6etckiDQgWFeLCatxTcQxfqr0H9A2epcw==",
+  "dgSpecHash": "mQyRNMxlk4o7p97ng1Ew/2kFQLXo1EXWoGfAd9X+FjdlHk5sDvptS2n5flPUBnN30szFQC3nSN8Ep/abCmio3g==",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\DotNet\\csharp\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "projectFilePath": "C:\\Workspace\\Cursos\\DotNet\\csharp\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

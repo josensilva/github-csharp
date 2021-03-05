@@ -1,0 +1,13 @@
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\bin\Debug\netcoreapp3.1\CalculaSalario.exe
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\bin\Debug\netcoreapp3.1\CalculaSalario.deps.json
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\bin\Debug\netcoreapp3.1\CalculaSalario.runtimeconfig.json
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\bin\Debug\netcoreapp3.1\CalculaSalario.runtimeconfig.dev.json
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\bin\Debug\netcoreapp3.1\CalculaSalario.dll
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\bin\Debug\netcoreapp3.1\CalculaSalario.pdb
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\obj\Debug\netcoreapp3.1\CalculaSalario.csprojAssemblyReference.cache
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\obj\Debug\netcoreapp3.1\CalculaSalario.AssemblyInfoInputs.cache
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\obj\Debug\netcoreapp3.1\CalculaSalario.AssemblyInfo.cs
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\obj\Debug\netcoreapp3.1\CalculaSalario.csproj.CoreCompileInputs.cache
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\obj\Debug\netcoreapp3.1\CalculaSalario.dll
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\obj\Debug\netcoreapp3.1\CalculaSalario.pdb
+C:\Workspace\Cursos\DotNet\csharp\CalculaSalario\obj\Debug\netcoreapp3.1\CalculaSalario.genruntimeconfig.cache

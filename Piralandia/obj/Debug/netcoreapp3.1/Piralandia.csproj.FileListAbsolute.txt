@@ -1,0 +1,13 @@
+C:\Workspace\Cursos\DotNet\csharp\piralandia\bin\Debug\netcoreapp3.1\Piralandia.exe
+C:\Workspace\Cursos\DotNet\csharp\piralandia\bin\Debug\netcoreapp3.1\Piralandia.deps.json
+C:\Workspace\Cursos\DotNet\csharp\piralandia\bin\Debug\netcoreapp3.1\Piralandia.runtimeconfig.json
+C:\Workspace\Cursos\DotNet\csharp\piralandia\bin\Debug\netcoreapp3.1\Piralandia.runtimeconfig.dev.json
+C:\Workspace\Cursos\DotNet\csharp\piralandia\bin\Debug\netcoreapp3.1\Piralandia.dll
+C:\Workspace\Cursos\DotNet\csharp\piralandia\bin\Debug\netcoreapp3.1\Piralandia.pdb
+C:\Workspace\Cursos\DotNet\csharp\piralandia\obj\Debug\netcoreapp3.1\Piralandia.csprojAssemblyReference.cache
+C:\Workspace\Cursos\DotNet\csharp\piralandia\obj\Debug\netcoreapp3.1\Piralandia.AssemblyInfoInputs.cache
+C:\Workspace\Cursos\DotNet\csharp\piralandia\obj\Debug\netcoreapp3.1\Piralandia.AssemblyInfo.cs
+C:\Workspace\Cursos\DotNet\csharp\piralandia\obj\Debug\netcoreapp3.1\Piralandia.csproj.CoreCompileInputs.cache
+C:\Workspace\Cursos\DotNet\csharp\piralandia\obj\Debug\netcoreapp3.1\Piralandia.dll
+C:\Workspace\Cursos\DotNet\csharp\piralandia\obj\Debug\netcoreapp3.1\Piralandia.pdb
+C:\Workspace\Cursos\DotNet\csharp\piralandia\obj\Debug\netcoreapp3.1\Piralandia.genruntimeconfig.cache

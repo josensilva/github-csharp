@@ -1,0 +1,13 @@
+C:\Cursos\DotNet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.exe
+C:\Cursos\DotNet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.deps.json
+C:\Cursos\DotNet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.runtimeconfig.json
+C:\Cursos\DotNet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.runtimeconfig.dev.json
+C:\Cursos\DotNet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.dll
+C:\Cursos\DotNet\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.pdb
+C:\Cursos\DotNet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.csprojAssemblyReference.cache
+C:\Cursos\DotNet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.AssemblyInfoInputs.cache
+C:\Cursos\DotNet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.AssemblyInfo.cs
+C:\Cursos\DotNet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.csproj.CoreCompileInputs.cache
+C:\Cursos\DotNet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.dll
+C:\Cursos\DotNet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.pdb
+C:\Cursos\DotNet\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.genruntimeconfig.cache

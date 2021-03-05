@@ -1,0 +1,13 @@
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\bin\Debug\netcoreapp3.1\TempoEvento.exe
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\bin\Debug\netcoreapp3.1\TempoEvento.deps.json
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\bin\Debug\netcoreapp3.1\TempoEvento.runtimeconfig.json
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\bin\Debug\netcoreapp3.1\TempoEvento.runtimeconfig.dev.json
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\bin\Debug\netcoreapp3.1\TempoEvento.dll
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\bin\Debug\netcoreapp3.1\TempoEvento.pdb
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\obj\Debug\netcoreapp3.1\TempoEvento.csprojAssemblyReference.cache
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\obj\Debug\netcoreapp3.1\TempoEvento.AssemblyInfoInputs.cache
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\obj\Debug\netcoreapp3.1\TempoEvento.AssemblyInfo.cs
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\obj\Debug\netcoreapp3.1\TempoEvento.csproj.CoreCompileInputs.cache
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\obj\Debug\netcoreapp3.1\TempoEvento.dll
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\obj\Debug\netcoreapp3.1\TempoEvento.pdb
+C:\Workspace\Cursos\DotNet\csharp\tempoevento\obj\Debug\netcoreapp3.1\TempoEvento.genruntimeconfig.cache
